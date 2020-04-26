@@ -1,0 +1,11 @@
+click==7.1.1
+Flask==1.1.2
+itsdangerous==1.1.0
+Jinja2==2.11.2
+joblib==0.14.1
+MarkupSafe==1.1.1
+numpy==1.18.3
+scikit-learn==0.21.0
+scipy==1.4.1
+Werkzeug==1.0.1
+xgboost==0.7.post4
